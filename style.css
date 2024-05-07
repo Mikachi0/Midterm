@@ -1,0 +1,16 @@
+
+body{
+    background-color: rgb(153, 153, 153);
+
+
+}
+h2{
+    font-style: italic;
+    font-size: 60;
+}
+p{
+ font-family: 'Times New Roman', Times, serif;
+}
+div{
+    font-size: 45;
+}
